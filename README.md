@@ -1,2 +1,2 @@
 # psychic-carnival
-TBA
+talk to brock lee brixus src code
